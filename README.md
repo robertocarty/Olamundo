@@ -1,2 +1,3 @@
-# Olamundo
- repositorio de curso de git e gitHub
+# Olá. Mundo!
+ Repositorio de curso de git e gitHub
+ Respositorio de testes.
